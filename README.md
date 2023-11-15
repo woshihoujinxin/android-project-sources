@@ -45,12 +45,9 @@
 
 
 #### 联系方式
-![本人微信](images/vx.jpeg =300*300)
-<img src="images/vx.jpeg" alt="本人微信" width="300" height="300" align="center" />
+<img src="images/vx.jpeg" alt="本人微信" width="512" height="512" align="center" />
 
 #### 支付方式
-![支付宝](images/zfbqr.jpeg =300*300)
-<img src="images/zfbqr.jpeg" alt="支付宝支付" width="300" height="300" align="center" />
+<img src="images/zfbqr.jpeg" alt="支付宝支付" width="372" height="580" align="center" />
 
-![微信](images/vxqr.jpeg =300*300)
-<img src="images/vxqr.jpeg" alt="微信支付" width="300" height="300" align="center" />
+<img src="images/vxqr.jpeg" alt="微信支付" width="428" height="580" align="center" />
