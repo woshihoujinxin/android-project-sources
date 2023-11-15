@@ -45,8 +45,8 @@
 
 
 #### 联系方式
-![本人微信](images/vx.jpeg){300px}
+![本人微信](images/vx.jpeg =300*300)
 
 #### 支付方式
-![支付宝](images/zfbqr.jpeg){300px}
-![微信](images/vxqr.jpeg){300px}
+![支付宝](images/zfbqr.jpeg =300*300)
+![微信](images/vxqr.jpeg =300*300)
